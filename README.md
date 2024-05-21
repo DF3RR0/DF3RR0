@@ -1,5 +1,12 @@
-## Hi there 👋
+## Hi 
 
+Meu nome é Daniel 
+- Estou estudando na [Alura](https:alura.com.br)
+- Estou me desenvolovendo na linguagem JavaScript
+- Utilizo este espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+
+
+  
 <!--
 **DF3RR0/DF3RR0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
